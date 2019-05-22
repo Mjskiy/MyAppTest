@@ -1,0 +1,5 @@
+﻿  TEXTRPG.cpp
+e:\kiydisk\study\cpp\textrpg\textrpg\textrpg.cpp(374): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kiydisk\study\cpp\textrpg\textrpg\textrpg.cpp(375): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TEXTRPG.vcxproj -> E:\KIYDISK\study\CPP\TEXTRPG\Debug\TEXTRPG.exe
+  TEXTRPG.vcxproj -> E:\KIYDISK\study\CPP\TEXTRPG\Debug\TEXTRPG.pdb (Partial PDB)
